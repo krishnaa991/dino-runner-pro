@@ -9,9 +9,6 @@ This project focuses on clean architecture, smooth gameplay, progressive difficu
 ## 🚀 Live Demo
 👉 https://krishnaa991.github.io/dino-runner-pro/
 
-Example:
-https://krishnaa991.github.io/dino-runner-pro/
-
 ---
 
 ## ✨ Features
