@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Dino Runner Pro</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="header">
+    <div class="profile-links">
+      <a href="https://github.com/krishnaa991" target="_blank">GitHub</a>
+      <a href="https://www.linkedin.com/in/krishna-prajapati-033144399" target="_blank">LinkedIn</a>
+    </div>
+    <div class="theme-toggle">
+      <button id="themeToggle" aria-label="Toggle theme">🌙</button>
+    </div>
+  </div>
+
+  <div class="game-container">
+    <div class="game-wrapper">
+      <canvas id="gameCanvas" width="900" height="300"></canvas>
+
+      <div class="overlay" id="overlay">
+        <h1>Dino Runner Pro</h1>
+        <p>Press SPACE or CLICK to Jump</p>
+        <button id="startBtn">Start Game</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="game.js"></script>
+</body>
+</html>
